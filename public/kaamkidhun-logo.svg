@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 660 140" fill="none">
+  <rect x="8" y="8" width="124" height="124" rx="32" fill="#182a2e"/>
+  <path d="M41 74v-7a29 29 0 0 1 58 0v7" stroke="#f5f4ec" stroke-linecap="round" stroke-width="9"/>
+  <rect x="33" y="70" width="17" height="30" rx="8.5" fill="#f5f4ec"/>
+  <rect x="90" y="70" width="17" height="30" rx="8.5" fill="#f5f4ec"/>
+  <rect x="56" y="88" width="7" height="16" rx="3.5" fill="#f4bd69"/>
+  <rect x="68" y="80" width="7" height="24" rx="3.5" fill="#f4bd69"/>
+  <rect x="80" y="90" width="7" height="14" rx="3.5" fill="#f4bd69"/>
+  <text x="160" y="75" fill="#182a2e" font-family="Avenir Next, Segoe UI, sans-serif" font-size="54" font-weight="750">KaamKiDhun</text>
+  <text x="164" y="108" fill="#52676b" font-family="Avenir Next, Segoe UI, sans-serif" font-size="17" font-weight="600">Work. Music. Flow.</text>
+</svg>
